@@ -1,4 +1,4 @@
-<?php
+<!/usr/bin/env python
 /*
 Obfuscation provided by FOPO - Free Online PHP Obfuscator: http://www.fopo.com.ar/
 This code was created on Wednesday, July 26th, 2017 at 10:17 UTC from IP 112.215.236.149
